@@ -49,6 +49,9 @@ DDLC/
 
 ---
 
+![idle]()
+---
+
 ## Credits
 
 **DokiDoki.rpa** by [levyzdev](https://github.com/levyzdev)  
