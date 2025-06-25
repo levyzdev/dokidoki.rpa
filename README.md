@@ -49,7 +49,8 @@ DDLC/
 
 ---
 
-![idle]()
+![idle](https://github.com/levyzdev/dokidoki.rpa/blob/main/img/image.png?raw=true)
+
 ---
 
 ## Credits
