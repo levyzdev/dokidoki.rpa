@@ -48,6 +48,7 @@ DDLC/
 - The decompiler only supports `.rpyc` files from **Ren'Py 6.x** or early **7.x** versions.
 
 ---
+### Interface (in idling)
 
 ![idle](https://github.com/levyzdev/dokidoki.rpa/blob/main/img/image.png?raw=true)
 
