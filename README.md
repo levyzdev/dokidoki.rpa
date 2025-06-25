@@ -8,11 +8,11 @@
    **Example:**
 ```
 DDLC/
-   ├── game/
-         ├── DokiDoki.rpa/ ← This tool goes here
-              ├── assets/
-              ├── put_rpyc/
-              ├── dokidoki.exe
+ ├── game/
+   ├── DokiDoki.rpa/ ← This tool goes here
+     ├── assets/
+     ├── put_rpyc/
+     ├── dokidoki.exe
 ```
 
 2. **Extract or Decompile:**
