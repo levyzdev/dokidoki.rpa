@@ -32,9 +32,7 @@ DDLC/
 
 ---
 
-## Folder Structure
-
-Folders:
+## Folders:
 --------
 
 - assets/api/         → Python scripts (unrpyc.py, rpatool.py, isRPC.py)
