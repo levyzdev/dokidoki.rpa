@@ -6,13 +6,14 @@
 
 1. **Place this project folder in the root of your DDLC game or mod.**  
    **Example:**
- DDLC/
+```
+DDLC/
    ├── game/
          ├── DokiDoki.rpa/ ← This tool goes here
               ├── assets/
               ├── put_rpyc/
               ├── dokidoki.exe
-
+```
 
 2. **Extract or Decompile:**
 - Run `dokidoki.exe`
