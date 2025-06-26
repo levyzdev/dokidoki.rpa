@@ -1,7 +1,7 @@
 # A simple .RPA extractor and .RPYC decompiler for Doki Doki Literature Club
 
 ---
-
+# WARNING! If you are going to decompile .rpyc files, please remove the "DokiDoki.RPA" folder from the "game" directory.
 ## How to Use
 
 1. **Place this project folder in the root of your DDLC game or mod.**  
