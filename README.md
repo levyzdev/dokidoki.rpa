@@ -1,4 +1,4 @@
-# A simple .RPA extractor and .RPYC decompiler for Doki Doki Literature Club and Ren'Py-based games.
+# A simple .RPA extractor and .RPYC decompiler for Doki Doki Literature Club
 
 ---
 
